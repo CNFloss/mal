@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="cpp" targetName="cpp" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="201feeee-8b46-48bd-8431-537724f004e7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Debug.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Environment.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Environment.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MAL.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadLine.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadLine.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Reader.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RefCountedPtr.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/StaticList.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/String.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Types.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Types.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Validation.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step0_repl.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/step0_repl.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/step1_read_print.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step2_eval.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step3_env.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step4_if_fn_do.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step5_tco.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step6_file.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step7_quote.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step8_macros.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/step9_try.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepA_mal.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/step5_tco.mal" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="2.1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2UvZPA00iLFqNuWbZAr2qzwlzga" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="201feeee-8b46-48bd-8431-537724f004e7" name="Changes" comment="" />
+      <created>1693821987999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693821987999</updated>
+      <workItem from="1693821989289" duration="665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
