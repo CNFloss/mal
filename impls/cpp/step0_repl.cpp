@@ -1,8 +1,6 @@
-//
-// Created by colin on 9/4/23.
-//
 #include <iostream>
 #include <string>
+#include "linenoise.hpp"
 using namespace std;
 
 string READ(string input) { return input; }
@@ -15,10 +13,19 @@ string rep(string input) {
 }
 
 int main() {
+  const auto path = "history.txt";
+  linenoise::LoadHistory(path);
   string input;
   for(;;) {
-    cout << "User> ";
-    getline(cin, input);
+    fflush(stdout);
+    auto quit = linenoise::Readline("User> ", input);
+
+    if (quit) {
+      break;
+    }
     cout << rep(input) << endl;
+    linenoise::AddHistory(input.c_str());
   }
+
+  linenoise::SaveHistory(path);
 }
